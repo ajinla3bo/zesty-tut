@@ -1,2 +1,2 @@
-# zesty-tut
+# newbot
 For educational purposes.
